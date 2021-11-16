@@ -6,7 +6,7 @@
   <br>
 🎓 EWHA University in Korea<br>
 💻 Computer Science & Engineering<br>
-😎 My Portfolio https://danbom.github.io/portfolio/main/index.html
+😎 My Portfolio https://danbom.github.io/portfolio/main/index.html<br>
 🤗 New Works https://poppy-mail.vercel.app/
 </div>
 
