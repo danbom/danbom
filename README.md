@@ -6,8 +6,7 @@
   <br>
 🎓 EWHA University in Korea<br>
 💻 Computer Science & Engineering<br>
-😎 My Portfolio https://danbom.github.io/portfolio/main/index.html<br>
-🤗 New Works https://poppy-mail.vercel.app/
+😎 My Portfolio https://mineunyoung.gitbook.io/min-eunyoung/<br>
 </div>
 
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdanbom%2Fhit-counter&count_bg=%23FF7575&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
@@ -15,9 +14,6 @@
 ### Languages and Tools:
 
 <p> 
-  <code><img alt="HTML5" width="20px" height="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
-  <code><img alt="CSS3" width="20px" height="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></code>
-<!--   <code><img alt="Sass" width="20px" height="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /></code> -->
   <code><img alt="JavaScript" width="20px" height="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></code>
   <code><img alt="TypeScript" width="20px" height="20px" src="https://user-images.githubusercontent.com/17538535/94103692-352aa180-fe70-11ea-9363-45be1975c011.png" /></code>
   <code><img alt="ES6" width="20px" height="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/es6/es6.png" /></code>
