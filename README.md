@@ -29,9 +29,9 @@ PDF 렌더링처럼 *화면과 데이터가 어긋나는 문제*를 최소 예�
 
 ## Featured
 
-- **[pdf-page-virtualization](https://github.com/danbom/pdf-page-virtualization)** — 300쪽 PDF, 보이는 쪽만 그리기 (메모리 2.2GB → 30MB)
-- **[pdf-text-anchor](https://github.com/danbom/pdf-text-anchor)** — 드래그한 텍스트를 좌표·인용문으로 저장하고 개정본에서 다시 찾기
-- **[pdf-overlay-coords](https://github.com/danbom/pdf-overlay-coords)** — PDF 위 박스가 확대·축소에 어긋나는 이유
+- **[pdf-page-virtualization](https://github.com/danbom/pdf-page-virtualization)** — 300쪽 PDF, 보이는 쪽만 그리기 (메모리 2.2GB → 30MB) · [데모](https://pdf-page-virtualization.vercel.app)
+- **[pdf-text-anchor](https://github.com/danbom/pdf-text-anchor)** — 드래그한 텍스트를 좌표·인용문으로 저장하고 개정본에서 다시 찾기 · [데모](https://pdf-text-anchor.vercel.app)
+- **[pdf-overlay-coords](https://github.com/danbom/pdf-overlay-coords)** — PDF 위 박스가 확대·축소에 어긋나는 이유 · [데모](https://pdf-overlay-coords.vercel.app)
 - **[cdisc-odm-notes](https://github.com/danbom/cdisc-odm-notes)** — CDISC ODM v1.3 한국어 스터디 노트
 
 <br />
@@ -45,11 +45,7 @@ PDF 렌더링처럼 *화면과 데이터가 어긋나는 문제*를 최소 예�
 ## Writing
 
 <!-- BLOG-POST-LIST:START -->
-- [300쪽을 다 그려도 첫 쪽은 빨리 뜬다](https://danbom425.tistory.com/119) <sub>2026.09.28</sub>
-- [형광펜은 좌표가 아니라 글자에 칠한다](https://danbom425.tistory.com/118) <sub>2026.09.28</sub>
-- [PDF 위 박스가 어긋나는 건 확대 탓이 아니다](https://danbom425.tistory.com/117) <sub>2026.09.23</sub>
-- [pdf.js를 Next.js에 붙이는 방법은 이미 반쯤 바뀌었다](https://danbom425.tistory.com/116) <sub>2026.09.23</sub>
-- [우리는 우리 속도를 못 잰다](https://danbom425.tistory.com/115) <sub>2026.09.23</sub><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:END -->
 
 <br />
 
