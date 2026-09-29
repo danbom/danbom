@@ -21,6 +21,6 @@ jobs:
           max_post_count: 5
           user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36"
           accept_header: "*/*"
-          date_format: "yyyy.MM.dd"
-          template: "- [$title]($url) <sub>$date</sub>$newline"
+          date_format: "yyyy.mm.dd"
+          template: "$newline- [$title]($url) <sub>$date</sub>"
           commit_message: "docs: update latest blog posts"
