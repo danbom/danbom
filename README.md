@@ -45,7 +45,11 @@ PDF 렌더링처럼 *화면과 데이터가 어긋나는 문제*를 최소 예�
 ## Writing
 
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- [300쪽을 다 그려도 첫 쪽은 빨리 뜬다](https://danbom425.tistory.com/119) <sub>2026.09.28</sub>
+- [형광펜은 좌표가 아니라 글자에 칠한다](https://danbom425.tistory.com/118) <sub>2026.09.28</sub>
+- [PDF 위 박스가 어긋나는 건 확대 탓이 아니다](https://danbom425.tistory.com/117) <sub>2026.09.23</sub>
+- [pdf.js를 Next.js에 붙이는 방법은 이미 반쯤 바뀌었다](https://danbom425.tistory.com/116) <sub>2026.09.23</sub>
+- [우리는 우리 속도를 못 잰다](https://danbom425.tistory.com/115) <sub>2026.09.23</sub><!-- BLOG-POST-LIST:END -->
 
 <br />
 
