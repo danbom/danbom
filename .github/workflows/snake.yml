@@ -1,4 +1,4 @@
-name: Generate contribution snake
+name: Generate contribution snake & breakout
 
 on:
   schedule:
@@ -22,6 +22,30 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg?color_snake=#FFB6C2&color_dots=#E8F5E6,#BDDFCF,#98C3B7,#7FB0A7,#659D96
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#FFB6C2&color_dots=#161b22,#3C5E59,#659D96,#98C3B7,#BDDFCF
+
+      - name: Generate breakout SVG (light)
+        uses: cyprieng/github-breakout@60c43dca3a1361fbc9fb9bb533b5193296345c4f   # v1.2.4
+        with:
+          github_username: ${{ github.repository_owner }}
+          output_path: breakout-light
+          paddle_color: "#FFB6C2"
+          ball_color: "#EE1166"
+          bricks_colors: "#E8F5E6,#BDDFCF,#98C3B7,#7FB0A7,#659D96"
+
+      - name: Generate breakout SVG (dark)
+        uses: cyprieng/github-breakout@60c43dca3a1361fbc9fb9bb533b5193296345c4f   # v1.2.4
+        with:
+          github_username: ${{ github.repository_owner }}
+          output_path: breakout-dark
+          paddle_color: "#FFB6C2"
+          ball_color: "#FFB6C2"
+          bricks_colors: "#161b22,#3C5E59,#659D96,#98C3B7,#BDDFCF"
+
+      - name: Collect breakout SVGs
+        run: |
+          mkdir -p dist
+          mv breakout-light/custom.svg dist/breakout.svg
+          mv breakout-dark/custom.svg dist/breakout-dark.svg
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
