@@ -38,7 +38,7 @@ PDF 렌더링처럼 *화면과 데이터가 어긋나는 문제*를 최소 예�
 
 ## Open Source
 
-[MDN 한국어 번역](https://github.com/mdn/translated-content) · [Vite 한글 문서](https://github.com/vitejs/docs-ko) · [zod 이슈](https://github.com/colinhacks/zod)
+[OpenEDC 한국어 번역](https://github.com/imi-muenster/OpenEDC/pull/5) · [MDN 한국어 번역](https://github.com/mdn/translated-content/pulls?q=is%3Apr+author%3Adanbom) · [Vite 한글 문서](https://github.com/vitejs/docs-ko/pulls?q=is%3Apr+author%3Adanbom) · [zod 이슈](https://github.com/colinhacks/zod/issues?q=involves%3Adanbom)
 
 <br />
 
