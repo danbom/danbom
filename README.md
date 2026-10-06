@@ -58,11 +58,11 @@ PDF 렌더링처럼 *화면과 데이터가 어긋나는 문제*를 최소 예�
 ### Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [LLM 금지는 흔들려도 승인하는 사람은 남는다](https://danbom425.tistory.com/122) <sub>2026.10.05</sub>
 - [&#39;임상시험&#39;이 두 번 있는데 한 번만 찾는다](https://danbom425.tistory.com/121) <sub>2026.09.30</sub>
 - [git log는 감사 추적이 아니다](https://danbom425.tistory.com/120) <sub>2026.09.29</sub>
 - [300쪽을 다 그려도 첫 쪽은 빨리 뜬다](https://danbom425.tistory.com/119) <sub>2026.09.28</sub>
-- [형광펜은 좌표가 아니라 글자에 칠한다](https://danbom425.tistory.com/118) <sub>2026.09.28</sub>
-- [PDF 위 박스가 어긋나는 건 확대 탓이 아니다](https://danbom425.tistory.com/117) <sub>2026.09.23</sub><!-- BLOG-POST-LIST:END -->
+- [형광펜은 좌표가 아니라 글자에 칠한다](https://danbom425.tistory.com/118) <sub>2026.09.28</sub><!-- BLOG-POST-LIST:END -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danbom/danbom/output/breakout-dark.svg" />
