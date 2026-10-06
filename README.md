@@ -45,8 +45,8 @@ PDF 렌더링처럼 *화면과 데이터가 어긋나는 문제*를 최소 예�
 &emsp; 매크로 오류가 나던 CSS 문서 19개 정리 · [#38775](https://github.com/mdn/translated-content/pull/38775) <sub>병합</sub>
 
 <img src="https://api.iconify.design/lucide/languages.svg?color=%2398C3B7" width="16" height="16" align="absmiddle" alt=""> **Vite 한글 문서**<br />
-&emsp; 환경별·전역 플러그인 훅 문서 3개 번역 동기화 · [#1836](https://github.com/vitejs/docs-ko/pull/1836)<br />
-&emsp; 의존성 사전 번들링의 aube·nub lockfile 지원 번역 · [#1840](https://github.com/vitejs/docs-ko/pull/1840)
+&emsp; 환경별·전역 플러그인 훅 문서 3개 번역 동기화 · [#1836](https://github.com/vitejs/docs-ko/pull/1836) <sub>병합</sub><br />
+&emsp; 의존성 사전 번들링의 aube·nub lockfile 지원 번역 · [#1840](https://github.com/vitejs/docs-ko/pull/1840) <sub>병합</sub>
 
 <img src="https://api.iconify.design/lucide/bug.svg?color=%2398C3B7" width="16" height="16" align="absmiddle" alt=""> **zod**<br />
 &emsp; 비영어 로케일에서 Infinity가 빠지는 버그 제보와 수정 브랜치 · [#6621](https://github.com/colinhacks/zod/issues/6621)<br />
