@@ -25,6 +25,9 @@ PDF 렌더링처럼 *화면과 데이터가 어긋나는 문제*를 최소 예�
 <img src="https://api.iconify.design/lucide/crosshair.svg?color=%23FFB6C2" width="16" height="16" align="absmiddle" alt=""> **[PDF 위 박스 좌표 맞추기](https://github.com/danbom/pdf-overlay-coords)** · [데모](https://pdf-overlay-coords.vercel.app)<br />
 &emsp; 확대·축소·회전해도 박스가 어긋나지 않게 PDF 좌표로 저장
 
+<img src="https://api.iconify.design/lucide/text-search.svg?color=%23FFB6C2" width="16" height="16" align="absmiddle" alt=""> **[PDF 전체 검색](https://github.com/danbom/pdf-full-text-search)** · [데모](https://pdf-full-text-search.vercel.app)<br />
+&emsp; 텍스트 레이어 없이 색인으로 찾아, 줄 끝에서 잘린 '임상시험'까지 2곳 모두 칠하기
+
 <img src="https://api.iconify.design/lucide/book-open-text.svg?color=%23FFB6C2" width="16" height="16" align="absmiddle" alt=""> **[CDISC ODM 한국어 노트](https://github.com/danbom/cdisc-odm-notes)**<br />
 &emsp; 임상시험 데이터 표준 ODM v1.3 명세를 4명이 같이 읽고 정리
 
