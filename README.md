@@ -45,7 +45,8 @@ PDF 렌더링처럼 *화면과 데이터가 어긋나는 문제*를 최소 예�
 
 <img src="https://api.iconify.design/lucide/languages.svg?color=%2398C3B7" width="16" height="16" align="absmiddle" alt=""> **MDN 한국어 번역**<br />
 &emsp; `<script>` 문서 '같이 보기' 링크를 영어판 기준으로 갱신 · [#38774](https://github.com/mdn/translated-content/pull/38774) <sub>병합</sub><br />
-&emsp; 매크로 오류가 나던 CSS 문서 19개 정리 · [#38775](https://github.com/mdn/translated-content/pull/38775) <sub>병합</sub>
+&emsp; 매크로 오류가 나던 CSS 문서 19개 정리 · [#38775](https://github.com/mdn/translated-content/pull/38775) <sub>병합</sub><br />
+&emsp; `Map.groupBy()` 설명에서 공유되는 건 요소라는 점을 명확히 · [#39144](https://github.com/mdn/translated-content/pull/39144)
 
 <img src="https://api.iconify.design/lucide/languages.svg?color=%2398C3B7" width="16" height="16" align="absmiddle" alt=""> **Vite 한글 문서**<br />
 &emsp; 환경별·전역 플러그인 훅 문서 3개 번역 동기화 · [#1836](https://github.com/vitejs/docs-ko/pull/1836) <sub>병합</sub><br />
