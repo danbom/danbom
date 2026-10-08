@@ -1,19 +1,3 @@
-<div align="center">
-
-**민은영 · Frontend Developer** — 브라우저에서 문서를 다룹니다.<br />
-[Blog](https://danbom425.tistory.com) · [Mail](mailto:bear0369@naver.com) · [Work @minnie425](https://github.com/minnie425)
-
-</div>
-
-### About
-
-임상시험 데이터 수집 시스템(EDC) 프론트엔드를 만듭니다.
-PDF 렌더링처럼 *화면과 데이터가 어긋나는 문제*를 최소 예제로 재현하고 글로 남깁니다.
-
-### Stack
-
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,styledcomponents&theme=dark" height="24" alt="TypeScript, React, Next.js, Tailwind CSS, styled-components" />
-
 ### Featured
 
 <img src="https://api.iconify.design/lucide/file-stack.svg?color=%23FFB6C2" width="16" height="16" align="absmiddle" alt=""> **[300쪽 PDF 뷰어 최적화](https://github.com/danbom/pdf-page-virtualization)** · [데모](https://pdf-page-virtualization.vercel.app)<br />
