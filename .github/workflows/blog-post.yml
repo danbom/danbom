@@ -19,6 +19,7 @@ jobs:
         with:
           feed_list: "https://danbom425.tistory.com/rss"
           max_post_count: 5
+          item_exec: "if ((post.categories || []).some(c => String(c).includes('게임'))) post = null"
           user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36"
           accept_header: "*/*"
           date_format: "yyyy.mm.dd"
