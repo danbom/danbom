@@ -30,5 +30,5 @@ I write about PDF rendering and coding with AI agents on my [blog](https://danbo
 - [react-pdf 11은 올리기만 하면 Chrome 145 아래에서 멈춘다](https://danbom425.tistory.com/123) <sub>2026.10.08</sub>
 - [LLM 금지는 흔들려도 승인하는 사람은 남는다](https://danbom425.tistory.com/122) <sub>2026.10.05</sub>
 - [&#39;임상시험&#39;이 두 번 있는데 한 번만 찾는다](https://danbom425.tistory.com/121) <sub>2026.09.30</sub>
-- [git log는 감사 추적이 아니다](https://danbom425.tistory.com/120) <sub>2026.09.29</sub>
+- [9월에 만든 커밋을 1월에 쓴 것처럼 바꿔 봤습니다](https://danbom425.tistory.com/120) <sub>2026.09.29</sub>
 - [300쪽을 다 그려도 첫 쪽은 빨리 뜬다](https://danbom425.tistory.com/119) <sub>2026.09.28</sub><!-- BLOG-POST-LIST:END -->
