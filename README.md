@@ -7,11 +7,11 @@ I write about PDF rendering and coding with AI agents on my [blog](https://danbo
 
 #### Building
 
-- **[300-page PDF viewer performance](https://github.com/danbom/pdf-page-virtualization)** - Renders only the visible pages, so memory drops from 2.2GB to 30MB. ([demo](https://pdf-page-virtualization.vercel.app))
-- **[Saving and restoring PDF highlights](https://github.com/danbom/pdf-text-anchor)** - Saves a selected passage as coordinates and a quote, then finds it again in a revised PDF. ([demo](https://pdf-text-anchor.vercel.app))
-- **[Box annotations in PDF coordinates](https://github.com/danbom/pdf-overlay-coords)** - Stores boxes in PDF coordinates so they stay in place through zoom and rotation. ([demo](https://pdf-overlay-coords.vercel.app))
-- **[Full-text PDF search](https://github.com/danbom/pdf-full-text-search)** - Searches an index instead of the text layer and highlights every match, even a word split across a line break. ([demo](https://pdf-full-text-search.vercel.app))
-- **[CDISC ODM study notes](https://github.com/danbom/cdisc-odm-notes)** - Notes from 4 of us reading the ODM v1.3 spec, the clinical trial data standard. Written in Korean.
+- **[300-page PDF viewer performance](https://github.com/hachi-008/pdf-page-virtualization)** - Renders only the visible pages, so memory drops from 2.2GB to 30MB. ([demo](https://pdf-page-virtualization.vercel.app))
+- **[Saving and restoring PDF highlights](https://github.com/hachi-008/pdf-text-anchor)** - Saves a selected passage as coordinates and a quote, then finds it again in a revised PDF. ([demo](https://pdf-text-anchor.vercel.app))
+- **[Box annotations in PDF coordinates](https://github.com/hachi-008/pdf-overlay-coords)** - Stores boxes in PDF coordinates so they stay in place through zoom and rotation. ([demo](https://pdf-overlay-coords.vercel.app))
+- **[Full-text PDF search](https://github.com/hachi-008/pdf-full-text-search)** - Searches an index instead of the text layer and highlights every match, even a word split across a line break. ([demo](https://pdf-full-text-search.vercel.app))
+- **[CDISC ODM study notes](https://github.com/hachi-008/cdisc-odm-notes)** - Notes from 4 of us reading the ODM v1.3 spec, the clinical trial data standard. Written in Korean.
 
 #### Contributing to
 
